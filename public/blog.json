@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+        "title": "Top 10 ES6 Features You Must Know",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "author": "Hamza Sohail",
+        "posted_date": "September 15, 2023",
+        "reading_time": 5,
+        "hashtags": [
+            "beginners",
+            "es6"
+        ],
+        "content": "JavaScript objects are like digital storage boxes that hold related information and functions, making them essential for organizing data in a structured way. Imagine creating a superhero named SpiderMan. This superhero would have properties like his real name, superpower, and age, and he could perform actions such as swinging and fighting. In JavaScript, properties are attributes that describe an object, while methods are actions the object can perform. For example, SpiderMan’s properties could include `realName` as Peter Parker, `superPower` as web-slinging, and `age` as 18. Methods for SpiderMan might be `swing()` for swinging between buildings and `fight()` for battling villains. Accessing these properties and methods is like asking SpiderMan to tell you about himself or to perform an action. Additionally, just as a superhero can change his costume, you can modify an object's properties to update its information. This ability to create, access, and modify properties and methods makes JavaScript objects incredibly versatile and powerful. By thinking of objects as your digital superheroes, you can better understand how they store information and perform actions, making your coding journey both fun and intuitive. Happy coding!"
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+        "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
+        "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+        "author": "Sajal Ali",
+        "posted_date": "August 28, 2023",
+        "reading_time": 4,
+        "hashtags": [
+            "javascript",
+            "coding",
+            "dev"
+        ],
+        "content": "JavaScript objects are like digital storage boxes that hold related information and functions, making them essential for organizing data in a structured way. Imagine creating a superhero named SpiderMan. This superhero would have properties like his real name, superpower, and age, and he could perform actions such as swinging and fighting. In JavaScript, properties are attributes that describe an object, while methods are actions the object can perform. For example, SpiderMan’s properties could include `realName` as Peter Parker, `superPower` as web-slinging, and `age` as 18. Methods for SpiderMan might be `swing()` for swinging between buildings and `fight()` for battling villains. Accessing these properties and methods is like asking SpiderMan to tell you about himself or to perform an action. Additionally, just as a superhero can change his costume, you can modify an object's properties to update its information. This ability to create, access, and modify properties and methods makes JavaScript objects incredibly versatile and powerful. By thinking of objects as your digital superheroes, you can better understand how they store information and perform actions, making your coding journey both fun and intuitive. Happy coding!"
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/RzGzcPg/3.png",
+        "title": "Component lifecycle in React — Class component vs Functional component",
+        "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+        "author": "Feroze Khan",
+        "posted_date": "July 10, 2023",
+        "reading_time": 10,
+        "hashtags": [
+            "mid_level",
+            "react"
+        ],
+        "content": "JavaScript objects are like digital storage boxes that hold related information and functions, making them essential for organizing data in a structured way. Imagine creating a superhero named SpiderMan. This superhero would have properties like his real name, superpower, and age, and he could perform actions such as swinging and fighting. In JavaScript, properties are attributes that describe an object, while methods are actions the object can perform. For example, SpiderMan’s properties could include `realName` as Peter Parker, `superPower` as web-slinging, and `age` as 18. Methods for SpiderMan might be `swing()` for swinging between buildings and `fight()` for battling villains. Accessing these properties and methods is like asking SpiderMan to tell you about himself or to perform an action. Additionally, just as a superhero can change his costume, you can modify an object's properties to update its information. This ability to create, access, and modify properties and methods makes JavaScript objects incredibly versatile and powerful. By thinking of objects as your digital superheroes, you can better understand how they store information and perform actions, making your coding journey both fun and intuitive. Happy coding!"
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
+        "title": "Free images and resources collection for website",
+        "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
+        "author": "Anmol Baloch",
+        "posted_date": "June 5, 2023",
+        "reading_time": 9,
+        "hashtags": [
+            "development",
+            "resources"
+        ],
+        "content": "JavaScript objects are like digital storage boxes that hold related information and functions, making them essential for organizing data in a structured way. Imagine creating a superhero named SpiderMan. This superhero would have properties like his real name, superpower, and age, and he could perform actions such as swinging and fighting. In JavaScript, properties are attributes that describe an object, while methods are actions the object can perform. For example, SpiderMan’s properties could include `realName` as Peter Parker, `superPower` as web-slinging, and `age` as 18. Methods for SpiderMan might be `swing()` for swinging between buildings and `fight()` for battling villains. Accessing these properties and methods is like asking SpiderMan to tell you about himself or to perform an action. Additionally, just as a superhero can change his costume, you can modify an object's properties to update its information. This ability to create, access, and modify properties and methods makes JavaScript objects incredibly versatile and powerful. By thinking of objects as your digital superheroes, you can better understand how they store information and perform actions, making your coding journey both fun and intuitive. Happy coding!"
+    }
+]
